@@ -57,7 +57,7 @@ a:hover {
 
 .box-shadow-a, .button:hover {
   text-decoration: none;
-  box-shadow: 0 0 0 4px #cde1f8;
+  box-shadow: 0 0 0 4px #FFAD50;
 }
 
 .display-5 {
@@ -222,7 +222,7 @@ a:hover {
 .socials .ico-circle:hover {
   background-color: #FF8A05;
   color: #fff;
-  box-shadow: 0 0 0 3px #cde1f8;
+  box-shadow: 0 0 0 3px #FFAD50;
   transition: all 500ms ease;
 }
 
@@ -266,14 +266,14 @@ a:hover {
   width: 18px;
   height: 7px;
   margin: 5px 5px;
-  background: #cde1f8;
-  border: 0px solid #cde1f8;
+  background: #FFAD50;
+  border: 0px solid #FFAD50;
   display: block;
   transition: all 0.6s ease-in-out;
   cursor: pointer;
 }
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #cde1f8;
+  background-color: #FFAD50;
 }
 .owl-theme .owl-dots .owl-dot.active span {
   background-color: #1B1B1B;
@@ -326,7 +326,7 @@ a:hover {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #298eff;
+  background: #FFAD50;
   color: #fff;
 }
 .back-to-top.active {
@@ -403,9 +403,9 @@ a:hover {
 
 .button-a {
   text-decoration: none;
-  background-color: #FF8A05;
+  background-color: #FFAD50;
   color: #fff;
-  border-color: #cde1f8;
+  border-color: #FF8A05;
 }
 
 .button-big {
@@ -724,10 +724,10 @@ a:hover {
   color: #FF8A05;
 }
 .hero-single .breadcrumb .breadcrumb-item:before {
-  color: #cde1f8;
+  color: #FFAD50;
 }
 .hero-single .breadcrumb .breadcrumb-item.active {
-  color: #cde1f8;
+  color: #FFAD50;
 }
 .hero-single .breadcrumb a {
   color: #fff;
@@ -757,7 +757,7 @@ a:hover {
   color: #4e4e4e;
 }
 .skill-mf .progress {
-  background-color: #cde1f8;
+  background-color: #FFAD50;
   margin: 0.5rem 0 1.2rem 0;
   border-radius: 0;
   height: 0.7rem;
@@ -827,7 +827,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.5;
-  box-shadow: 0 0 0 10px #cde1f8;
+  box-shadow: 0 0 0 10px #FFAD50;
 }
 
 .counter-num .counter {
@@ -1073,7 +1073,7 @@ a:hover {
   transition: 0.4s;
 }
 .php-email-form button[type=submit]:hover {
-  background: #3393ff;
+  background: #FFAD50;
 }
 
 @-webkit-keyframes animate-loading {
