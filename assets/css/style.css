@@ -851,7 +851,7 @@ a:hover {
 .work-img {
   display: block;
   overflow: hidden;
-  max-height: 260px;
+  max-height: 235px;
 }
 .work-img img {
   transition: all 1s;
@@ -1286,7 +1286,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #FFAD50;
+  background: #000;
 }
 footer .copyright {
   margin-bottom: 0.3rem;
